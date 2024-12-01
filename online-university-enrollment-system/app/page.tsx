@@ -1,4 +1,4 @@
-import Header from "@/app/components/ui-dashboard/header/Header";
+import Header from "@/app/ui/header/Header";
 
 
 
@@ -11,6 +11,7 @@ const Home = () => {
             <div>
 
             </div>
+
             <div className="flex-grow flex flex-col items-center justify-center">
 
             </div>
